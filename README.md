@@ -1,1 +1,4 @@
-
+- Senior Linux and Network Admin
+- IT Consultant
+- IT Trainer
+- Author
