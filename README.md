@@ -1,3 +1,5 @@
+I love code and writing technical papers.
+
 I am working on several projects around IaC:
 
 - [goffinet/virt-scripts](https://github.com/goffinet/virt-scripts/) is a Bash collection in front of Libvirt to manage KVM guests in Linux labs.
